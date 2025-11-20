@@ -1,2 +1,0 @@
-# capsuleos-cloud-functions
-untitled
