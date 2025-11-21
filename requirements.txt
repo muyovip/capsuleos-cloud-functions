@@ -1,5 +1,5 @@
 flask==3.0.0
-llama-index-core==0.11.2
+llama-index-core==0.10.68
 llama-index-readers-file==0.1.21
 llama-index-embeddings-gemini==0.3.1
 llama-index-vector-stores-pinecone==0.2.1
